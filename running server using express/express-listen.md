@@ -24,7 +24,7 @@ nodemon yourjsfilename.js
 
 ### step 5 : output will look like this
 
-![Alt text](__dirname+noder.png)
+![Alt text](noder.png)
 
 ## step 6:complete source
 
