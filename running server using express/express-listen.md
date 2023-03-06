@@ -24,4 +24,4 @@ nodemon yourjsfilename.js
 
 ### step 5 : output will look like this
 
-![Alt text](running%20%20express%20server/noder.png)
+![Alt text](noder.png)
