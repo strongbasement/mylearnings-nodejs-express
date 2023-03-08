@@ -40,7 +40,7 @@ app.use(bodyparser.urlencoded({extended:true}));
 app.post('/form',function(req,res)
 
 {
-var name=req.body.name1; /*storing input type name field value in a variable called. req is request body is bodyparser function;name1 is input type name mentioned while in form creation */ 
+var name=req.body.name1; /*storing input type name field value in a variable called. req is request to body ie form.html;body is bodyparser function;name1 is input type name mentioned while in form creation */ 
 var email=req.body.email;
 res.write('your name is '+name+' and your email is '+email);
 res.send();
